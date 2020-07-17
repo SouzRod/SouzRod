@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software developer, in love with my work. 💻 <br>
-My main technology is [Node.js](https://nodejs.org/en/)<br>
-I like everything related to the JS universe, so if you have something related to JS let me see, I am very interested! 😉
+My name is Rodrigo Souza and I'm one of those JavaScript nerds 🤓 <br>
+My main technology is [Node.js](https://nodejs.org/en/) <br>
+But I like everything related to the JS universe, so if you have something related to JS let me see, I am very interested! 😉
 
 <!--
 **SouzRod/SouzRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
