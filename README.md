@@ -11,6 +11,5 @@ But I like everything related to the JS universe, so if you have something relat
   </div>
 </div>
  
-Quer saber mais?
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-souza-b07536165/)](https://www.linkedin.com/in/rodrigo-souza-b07536165/)
