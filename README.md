@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My name is Rodrigo Souza and I'm one of those JavaScript nerds 🤓 <br>
 My main technology is [Node.js](https://nodejs.org/en/) <br>
 But I like everything related to the JS universe, so if you have something related to JS let me see, I am very interested! 😉
