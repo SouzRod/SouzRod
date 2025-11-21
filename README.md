@@ -21,6 +21,7 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://bun.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Bun_JS_logo.png?20240411202958" alt="Bun" height="50" /></a>  
+<a href="https://fastify.dev/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/J6jAwSyKKXCfmYj8F3PkZORdx6xNBvS8DVDhUYgY660/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LnN2Z2Nkbi5jb20v/ZGV2aWNvbi9mYXN0/aWZ5LW9yaWdpbmFs/LnN2Zw" alt="Bun" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -65,6 +66,6 @@
 
 ## Connect with me  
   
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/souzrod/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
