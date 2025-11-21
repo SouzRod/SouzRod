@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Rodrigo" alt="Typing SVG" /></a>
+</div>
 
 ## My Skill Set  
 <table>
@@ -53,6 +55,6 @@
 
 ## Connect with me  
   
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/souzrod/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
