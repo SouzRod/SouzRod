@@ -6,7 +6,7 @@
 </div>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -57,7 +57,7 @@
 
 ## Github Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/SouzRod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzRod&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzRod&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -65,6 +65,6 @@
 
 ## Connect with me  
   
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/souzrod/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
