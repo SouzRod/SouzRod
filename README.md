@@ -1,6 +1,4 @@
-My name is Rodrigo Souza and I'm one of those JavaScript nerds 🤓 <br>
-My main technology is [Node.js](https://nodejs.org/en/) <br>
-But I like everything related to the JS universe, so if you have something related to JS let me see, I am very interested! 😉
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Rodrigo" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://github.com/SouzRod">
