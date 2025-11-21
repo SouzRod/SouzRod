@@ -12,8 +12,8 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://imgs.search.brave.com/INv9B8uaOjhFSTKeMkRA14ZSbnaeOiovqRctmJV4Grg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2phdmFzY3JpcHQt/cG5nL2phdmFzY3Jp/cHQtbm9kZWpzLWxv/Z28tMjcucG5n" alt="Node.js" height="60" /></a>  
 <a href="https://bun.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Bun_JS_logo.png?20240411202958" alt="Bun" height="50" /></a>  
 <a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/2TlLDXV06H8vp4lIT9Cwehr2-elCQ-BYvTD09nBKEEk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2Rlbm9s/aWIvYXdlc29tZS1k/ZW5vL3Jhdy9tYWlu/L2Rlbm8tbG9nby5w/bmc" alt="Deno" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://fastify.dev/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/J6jAwSyKKXCfmYj8F3PkZORdx6xNBvS8DVDhUYgY660/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LnN2Z2Nkbi5jb20v/ZGV2aWNvbi9mYXN0/aWZ5LW9yaWdpbmFs/LnN2Zw" alt="Bun" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
@@ -38,7 +38,7 @@
 
 <h3 align="center">DevOps</h3>
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/XmCIRWaUJO-NFwg9daIUK9bv7qQEZhpc02dEi4T45_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvQVdT/LUxvZ28tUE5HLUZp/bGUucG5n" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
