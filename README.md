@@ -6,9 +6,9 @@
 </div>
 
 ## My Skill Set  
-<table>
-  <tr>
-    <td align="center">
+<table width="200px">
+  <tr width="200px">
+    <td align="center" width="33%">
 
   ### Back-end  
   <div align="center">  
@@ -19,7 +19,7 @@
 
   </td>
   
-  <td align="center">
+  <td align="center" width="33%">
 
   ### DevOps  
   <div align="center">  
@@ -33,7 +33,7 @@
   </div>
 
   </td>
-  <td align="center">
+  <td align="center" width="33%">
 
   ### Databases  
   <div align="center">  
