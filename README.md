@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&duration=4000&pause=500&multiline=true&width=435&lines=Hi!+My+name+is+Rodrigo;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&duration=4000&pause=500&multiline=true&width=435&height=100&lines=Hi!+My+name+is+Rodrigo;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
 </div>
 
 ## My Skill Set  
