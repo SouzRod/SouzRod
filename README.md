@@ -6,7 +6,7 @@
 </div>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table bgcolor="#f5f5f5"><tr><td valign="top" width="33%">
 
 
 
