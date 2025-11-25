@@ -2,6 +2,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=500&color=41F738&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+My+name+is+Rodrigo;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
 </div>
 
+## Links
+[Dominando o Tratamento de Erros no GraphQL com Node.js e Apollo Server](https://medium.com/@rdrg.rcs1997/dominando-o-tratamento-de-erros-no-graphql-com-node-js-e-apollo-server-edb80c58ca60)
+
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
 
