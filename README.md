@@ -53,14 +53,6 @@
 
 </td></tr></table>  
 
-
-## Github Stats
-<div align="left">
-  <a href="https://github.com/SouzRod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzRod&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 ## Connect with me    
 <div align="left">
   <a href="https://www.linkedin.com/in/souzrod/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
